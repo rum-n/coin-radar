@@ -1,0 +1,25 @@
+body {
+    min-width:300px;
+    font-family: "Open sans", sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+.search {
+    display: none;
+}
+
+.search-btn {
+    display: none;
+}
+
+.coin-info {
+    padding: 1rem;
+}
+
+ol {
+    padding: 0;
+    margin: 0;
+}

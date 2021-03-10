@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Coin Radar",
+    "description": "This extension will get data from Coin Gecko.",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_icon": "gecko1.jpg",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
